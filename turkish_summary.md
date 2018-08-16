@@ -1,5 +1,7 @@
 ## SNIPS AIR
 
+Translation made by https://github.com/hedonistrh 
+
 **Merkezsiz, Tasarımı Gereği Gizli-Kişiye Özel Ses Asistanı**
 
 *_SORUMLULUK REDDİ: Bu yazının amacı SNIPS şirketinin sesli asistanı ve bu asistanın kullanımı için kurulan blok zinciri hakkında bilgi vermektir. Kesinlikle İngilizce whitepaper'in birebir çevirisi değildir. 2018 Ağustos ayı itibari ile Snips şirketi ile hiç bir bağım bulunmamaktadır._*
